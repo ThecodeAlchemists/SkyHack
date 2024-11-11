@@ -24,3 +24,4 @@ Ensure the following dependencies are installed:
   ```bash
   python3 hack.py
 
+# SkyHack
